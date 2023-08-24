@@ -1,0 +1,10 @@
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\bin\Debug\SqlToPowerBiStreaming.dacpac
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\SqlToPowerBiStreaming.sqlproj.AssemblyReference.cache
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\Model.xml
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\refactor.xml
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\postdeploy.sql
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\predeploy.sql
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\PowerBiStream.dll
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\obj\Debug\PowerBiStream.pdb
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\bin\Debug\PowerBiStream.dll
+C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\bin\Debug\PowerBiStream.pdb

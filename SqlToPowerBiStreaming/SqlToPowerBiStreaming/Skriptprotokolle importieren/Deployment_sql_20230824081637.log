@@ -1,0 +1,13 @@
+24.08.2023 10:16:37	Dieses Protokoll enthält Informationen über den Importvorgang des Skripts "Deployment.sql" in das Projekt "SqlToPowerBiStreaming" auf dem Computer "LAPTOP-1U5E2Q0V" durch den Benutzer "MartinBubenheimer".
+24.08.2023 10:16:37	Importieren von Datei gestartet: C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\Deployment.sql 
+24.08.2023 10:16:37	Dateiname C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\Deployment.sql (Größe: 4175)
+24.08.2023 10:16:37	Das Importskript wird analysiert.
+24.08.2023 10:16:38	Gesamtanzahl der Batches im Skript: 17
+24.08.2023 10:16:38	Gesamtanzahl der Anweisungen im Skript: 12
+24.08.2023 10:16:38	Das Skript wurde erfolgreich in das Projekt importiert.
+24.08.2023 10:16:38	Die Schemaobjekte werden analysiert...
+24.08.2023 10:16:38	Das Projekt wird auf doppelte Elemente überprüft.
+24.08.2023 10:16:38	Die Verarbeitung doppelter Elemente wurde abgeschlossen.
+24.08.2023 10:16:39	Eine oder mehrere Anweisungen im Skript für den Importvorgang konnten nicht vollständig verarbeitet werden. Diese Anweisungen wurden in die Datei "ScriptsIgnoredOnImport.sql" verschoben. Überprüfen Sie den Dateiinhalt auf zusätzliche Informationen.
+24.08.2023 10:16:39	Eine Zusammenfassung des Importvorgangs wurde an folgendem Ort gespeichert: C:\Users\MartinBubenheimer\source\repos\SqlToPowerBiStreaming\SqlToPowerBiStreaming\Skriptprotokolle importieren\Deployment_sql_20230824081637.log
+24.08.2023 10:16:39	Klicken Sie auf "Fertig stellen", um den Vorgang fortzusetzen...
